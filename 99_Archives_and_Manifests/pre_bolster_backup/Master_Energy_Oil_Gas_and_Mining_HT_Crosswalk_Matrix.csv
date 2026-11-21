@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+HT-ENE-01,Energy Oil Gas and Mining,"Independence debt/indemnity imposed by France (1825, public historical record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-ENE-02,Energy Oil Gas and Mining,1915-1934 US occupation (public historical record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-ENE-03,Energy Oil Gas and Mining,Disaster recovery and external governance interventions,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-ENE-04,Energy Oil Gas and Mining,"Independence debt/indemnity imposed by France (1825, public historical record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-ENE-05,Energy Oil Gas and Mining,1915-1934 US occupation (public historical record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

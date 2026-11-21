@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+HT-EDU-01,Education Culture and Heritage,"Independence debt/indemnity imposed by France (1825, public historical record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-EDU-02,Education Culture and Heritage,1915-1934 US occupation (public historical record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-EDU-03,Education Culture and Heritage,Disaster recovery and external governance interventions,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-EDU-04,Education Culture and Heritage,"Independence debt/indemnity imposed by France (1825, public historical record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-EDU-05,Education Culture and Heritage,1915-1934 US occupation (public historical record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

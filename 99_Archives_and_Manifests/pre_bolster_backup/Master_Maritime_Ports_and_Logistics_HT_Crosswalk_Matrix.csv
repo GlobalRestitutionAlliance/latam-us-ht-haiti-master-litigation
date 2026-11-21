@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+HT-MAR-01,Maritime Ports and Logistics,"Independence debt/indemnity imposed by France (1825, public historical record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-MAR-02,Maritime Ports and Logistics,1915-1934 US occupation (public historical record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-MAR-03,Maritime Ports and Logistics,Disaster recovery and external governance interventions,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-MAR-04,Maritime Ports and Logistics,"Independence debt/indemnity imposed by France (1825, public historical record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-MAR-05,Maritime Ports and Logistics,1915-1934 US occupation (public historical record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

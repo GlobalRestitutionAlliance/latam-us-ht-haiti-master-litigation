@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+HT-JUD-01,Judicial Cooperation and Extradition,"Independence debt/indemnity imposed by France (1825, public historical record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-JUD-02,Judicial Cooperation and Extradition,1915-1934 US occupation (public historical record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-JUD-03,Judicial Cooperation and Extradition,Disaster recovery and external governance interventions,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-JUD-04,Judicial Cooperation and Extradition,"Independence debt/indemnity imposed by France (1825, public historical record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-JUD-05,Judicial Cooperation and Extradition,1915-1934 US occupation (public historical record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

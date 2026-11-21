@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+HT-HUM-01,Human Rights and Civil Liberties,"Independence debt/indemnity imposed by France (1825, public historical record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-HUM-02,Human Rights and Civil Liberties,1915-1934 US occupation (public historical record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-HUM-03,Human Rights and Civil Liberties,Disaster recovery and external governance interventions,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-HUM-04,Human Rights and Civil Liberties,"Independence debt/indemnity imposed by France (1825, public historical record)",Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HT-HUM-05,Human Rights and Civil Liberties,1915-1934 US occupation (public historical record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
