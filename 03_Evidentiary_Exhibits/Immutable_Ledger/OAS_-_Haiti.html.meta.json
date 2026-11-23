@@ -1,0 +1,17 @@
+{
+  "url": "https://www.oas.org/en/member_states/member_state.asp?sCode=HAI",
+  "final_url": "https://www.oas.org/ext/en/main/oas/member-states",
+  "title": "OAS - Haiti",
+  "fetched_at": "2026-11-23T14:28:34.656267Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 46451,
+  "sha256": "160b65b9941e2c54ab69502a486bc86784d80e1d27434e9e37b19c285eac7105",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
